@@ -3,6 +3,8 @@
 A React-based web application that allows users to **search for movies**, view their **ratings and release year**, and **ranks movies** based on how many times they've been searched before.
 
 ---
+![Alt Text](./assets/Screenshot 2025-05-05 154225.png)
+
 
 ## 🚀 Features
 
